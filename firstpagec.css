@@ -1,0 +1,122 @@
+@import "templatecolours.css";
+
+
+body {
+
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+}
+li {
+  display: inline;
+}
+nav>ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 50px;
+  overflow: hidden;
+
+}
+nav>ul>li a {
+  display: inline;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 30px;
+  text-decoration: underline;
+font-size: 25px;
+}
+li a:hover {
+  color: #edbb00;
+}
+header{
+height: 130px;
+background-color: #a50044;
+}
+header h1{
+  position: relative;
+font-size: 50px;
+
+  top: 35px;
+  left: 10px;
+}
+h2{
+  position: relative;
+  bottom: -50px;
+  width: auto;
+  font-size: 30PX;
+  font-weight: bold;
+  padding-left: 20px;
+    color: #ffed02;
+}
+body{
+  position: relative;
+  bottom: 10px;
+  background-color: #004d98;
+  color: 	#FFFFFF;
+}
+p{
+  width: 500px;
+  position: relative;
+  bottom: -70px;
+  padding-left: 20px;
+  font-size: 18px;
+}
+#frst {
+  position: relative;
+  bottom: 100px;
+float: right;
+width: 500px;
+height: 300px;
+padding-right: 20px;
+left: 150px;
+}
+#bdor {
+  position: relative;
+  float: right;
+  bottom: -600px;
+  left: 150px;
+  width: 500px;
+  height: 300px;
+  padding-right: 20px;
+}
+#cont {
+  position: relative;
+  bottom: -700px;
+float: right;
+width: 500px;
+height: 300px;
+padding-right: 20px;
+left: 150px;
+}
+#lego {
+  position: relative;
+  top: -15px;
+  width:150px;
+  float: left;
+  height: 150px;
+}
+h3 {
+  position: relative;
+  bottom: -70px;
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 20px;
+  color: #ffed02;
+}
+h4 {
+  position: relative;
+  bottom: -70px;
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 20px;
+    color: #ffed02;
+}
+h5 {
+  position: relative;
+  bottom: -70px;
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 20px;
+    color: #ffed02;
+  }
